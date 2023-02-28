@@ -1,5 +1,5 @@
 # Complex-task--SQL-Python
-For EdTech business: Analysis of the courseses combinations which have been ordered, to setup a base for system which recomends additional courses during course ordering procedure. 
+For EdTech business: Analysis of the courseses combinations which have been ordered, to setup a base for system which recommends additional courses during course ordering procedure. 
 Final class project.  
 SQL-queries, Python with Pandas are used.
 
