@@ -5,7 +5,7 @@ SQL-queries, Python with Pandas are used.
 
 ### About the project  
 This is the final project I made while finishing Data Anlysis course.  
-The scope, targets and answers could be found in the document (click the link below).  
+The scope, targets and answers could be found in the Jupyter Notebook Markdown (click the link below).  
 Initial dataset was in form of SQL tables.  
 PostgreSQL requests and Metabase were used to make an impression about dataset. Then Python with additional libraries (Pandas first of all) were used for data analysis.   
 The project got a highest mark. 
