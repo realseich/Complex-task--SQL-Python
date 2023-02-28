@@ -11,5 +11,5 @@ PostgreSQL requests and Metabase were used to make an impression about dataset. 
 The project got a highest mark. 
 
 ### Link to the project  
-[Jupyter Notebook is here](https://github.com/realseich/Complex-task--SQL-Python/blob/main/Project-4_A.S._final_ed_plus.ipynb)   
+[Jupyter Notebook is here](https://github.com/realseich/EdTech-complex-task--SQL-Python-Pandas/blob/main/Project-4_A.S._final_ed_plus_for_gh.ipynb))   
 Markdown cells and comments is written in Russian. Code is international for sure :) 
