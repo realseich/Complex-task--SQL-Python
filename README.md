@@ -9,7 +9,7 @@
 #### Dataset and tools
 - Initial dataset was in form of SQL tables. 
 - PostgreSQL requests and Metabase were used to make an impression about dataset. 
-- Then Python with additional libraries (Pandas first of all) were used for data analysis and to build the recomendations.
+- Then Python with additional libraries (Pandas first of all, psycopg2, Matplotlib, Seaborn) were used for data analysis and to build the recomendations.
 
 ### Link to the project  
 [Jupyter Notebook is here](https://github.com/realseich/EdTech-complex-task--SQL-Python-Pandas/blob/main/Project-4_A.S._final_ed_plus_for_gh.ipynb)   
