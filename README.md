@@ -1,7 +1,7 @@
 # Complex-task--SQL-Python
-Complex task. SQL &amp; Python/Pandas are used. 
+For EdTech business: Analysis of the courseses combinations which have been ordered, to setup a base for system which recomends additional courses during course ordering procedure. 
 Final class project.  
-SQL-queries, Python with Pandas.
+SQL-queries, Python with Pandas are used.
 
 ### About the project  
 This is the final project I made while finishing Data Anlysis course.  
